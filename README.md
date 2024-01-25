@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EfededeCe, from Argentina to the world.
-- 👀 I’m interested in learn about tech world, more specificly about programing.
+- 👀 I’m interested in learn about tech world, more specifically about programming.
 - 🌱 I’m currently learning Node.JS.
 - 💞️ I’m looking to collaborate on proyects like web apps.
 - 📫 How to reach me well, my e-mail is fede_delcorro@hotmail.com
