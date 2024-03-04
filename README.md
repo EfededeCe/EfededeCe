@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EfededeCe, from Argentina to the world.
+- 👋 Hi, I’m Federico, from Argentina to the world.
 - 👀 I’m interested in learn about tech world, more specifically about web programming.
 - 🌱 I’m currently learning Node, React, Python and some Rust.
 - 💞️ I’m looking to collaborate on proyects like web apps.
